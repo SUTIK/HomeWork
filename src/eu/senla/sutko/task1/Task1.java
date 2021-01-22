@@ -38,7 +38,6 @@ public class Task1 {
     public static Integer getC2() {
         return c2;
     }
-
     public static void setC2(Integer c2) {
         Task1.c2 = c2;
     }
@@ -48,7 +47,6 @@ public class Task1 {
     public static Long getD2() {
         return d2;
     }
-
     public static void setD2(Long d2) {
         Task1.d2 = d2;
     }
@@ -58,7 +56,6 @@ public class Task1 {
     public static Float getE2() {
         return e2;
     }
-
     public static void setE2(Float e2) {
         Task1.e2 = e2;
     }
@@ -68,7 +65,6 @@ public class Task1 {
     public static Double getF2() {
         return f2;
     }
-
     public static void setF2(Double f2) {
         Task1.f2 = f2;
     }
@@ -79,7 +75,6 @@ public class Task1 {
     public static Boolean getG2() {
         return g2;
     }
-
     public static void setG2(Boolean g2) {
         Task1.g2 = g2;
     }
@@ -90,7 +85,6 @@ public class Task1 {
     public static Character getH2() {
         return h2;
     }
-
     public static void setH2(Character h2) {
         Task1.h2 = h2;
     }
